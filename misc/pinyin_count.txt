@@ -1,5 +1,5 @@
-hao 2
+hao 3
 jie 1
-ni 2
+ni 3
 shi 1
 shijie 1
