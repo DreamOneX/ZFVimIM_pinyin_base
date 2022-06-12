@@ -15,5 +15,6 @@ ri 1
 shi 3 1 1
 shijie 1
 te 2
+wu 1
 yong 1
 yue 1
