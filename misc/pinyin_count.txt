@@ -7,11 +7,12 @@ hao 3 1
 jie 1
 kuai 1
 le 2
+ming 1
 ni 3
 nian 1
 qun 1
 ri 1
-shi 2 1 1
+shi 3 1 1
 shijie 1
 te 2
 yong 1
