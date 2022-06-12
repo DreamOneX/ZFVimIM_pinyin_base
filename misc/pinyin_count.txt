@@ -7,7 +7,7 @@ hao 3 1
 jie 1
 kuai 1
 le 2
-ming 1
+ming 1 1
 ni 3
 nian 1
 qun 1
