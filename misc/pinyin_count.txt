@@ -1,12 +1,13 @@
 cuo 1
 cuole 1
-d 3
+d 4
 ding 2
 fang 1
 hao 3 1
 jie 1
 kuai 1
 le 2
+liu 1
 ming 1 1
 ni 3
 nian 1
@@ -17,4 +18,4 @@ shijie 1
 te 2
 wu 1
 yong 1
-yue 1
+yue 2
