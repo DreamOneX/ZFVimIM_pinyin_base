@@ -1,10 +1,12 @@
 cuo 1
 cuole 1
 d 4
+dang 1
 ding 2
 fang 1
 hao 3 1
 jie 1
+kong 1
 kuai 1
 le 2
 liu 1
